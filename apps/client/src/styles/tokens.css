@@ -1,0 +1,49 @@
+/* ─── Design Tokens: Registrar's Compliance Ledger ──────────────────────────── */
+:root {
+  /* Color palette */
+  --ink: #1B2430;
+  --paper: #ECE7DC;
+  --surface: #F7F5EF;
+  --line: #C9C2B2;
+
+  /* Status colors — functional only, never decorative */
+  --accent-active: #3B6E5E;
+  --accent-expiring: #B8863B;
+  --accent-expired: #A23E3E;
+  --accent-revoked: #6B6B6B;
+
+  /* Typography */
+  --font-heading: 'Newsreader', Georgia, serif;
+  --font-body: 'IBM Plex Sans', system-ui, sans-serif;
+
+  /* Spacing scale */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --space-10: 40px;
+  --space-12: 48px;
+  --space-16: 64px;
+
+  /* Type scale */
+  --text-xs: 11px;
+  --text-sm: 13px;
+  --text-base: 14px;
+  --text-md: 15px;
+  --text-lg: 18px;
+  --text-xl: 22px;
+  --text-2xl: 28px;
+  --text-3xl: 36px;
+
+  /* Border */
+  --radius-sm: 2px;
+  --radius: 3px;
+  --border: 1px solid var(--line);
+
+  /* Shadows */
+  --shadow-sm: 0 1px 3px rgba(27, 36, 48, 0.06);
+  --shadow: 0 2px 8px rgba(27, 36, 48, 0.08);
+}
