@@ -277,3 +277,5 @@ Or create a new account at `/signup`.
 - Enrollment creation on the frontend (enroll button on a course) not yet implemented
 - Course creation modal not wired up in CoursesPage (button visible for hr_admin)
 - No table pagination (server defaults to full result sets)
+#   t r a i n i n g - p l a t f o r m  
+ 
